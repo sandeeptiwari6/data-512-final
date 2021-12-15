@@ -2,9 +2,9 @@
 ## Final Project
 ___
 ## Oklahoma County, Oklahoma
-- [A4 - Common Analysis](https://github.com/sandeeptiwari6/data-512-final/blob/main/a4/hcds-a4-analysis.ipynb)
-- [A5 - Project Extension](https://github.com/sandeeptiwari6/data-512-final/blob/main/a5/A5-Project%20Extension.pdf)
-- [A6 - Project Presentation](https://github.com/sandeeptiwari6/data-512-final/blob/main/a6/prison-covid-analysis.ipynb)
+- [A4 - Common Analysis](https://github.com/sandeeptiwari6/data-512-final/tree/main/a4)
+- [A5 - Project Extension](https://github.com/sandeeptiwari6/data-512-final/tree/main/a5)
+- [A6 - Project Presentation](https://github.com/sandeeptiwari6/data-512-final/tree/main/a6)
 - [A7 - Final Report](https://github.com/sandeeptiwari6/data-512-final/blob/main/A7%20-%20Project%20Report.pdf)
 
 ## Introduction
